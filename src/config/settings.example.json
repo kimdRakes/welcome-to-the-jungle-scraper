@@ -1,0 +1,15 @@
+{
+  "mode": "both",
+  "input_source": "data/samples.json",
+  "output_dir": "dist",
+  "export": {
+    "format": "ndjson",
+    "filename": "dataset.ndjson"
+  },
+  "defaults": {
+    "country_fallback": "FR",
+    "currency_fallback": "EUR",
+    "language_fallback": "fr"
+  },
+  "log_level": "INFO"
+}
