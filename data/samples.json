@@ -1,0 +1,20 @@
+{
+  "company_html": "<html><head><title>Cafeyn</title></head><body><article id=\"company\" data-slug=\"lekiosk\"><h1 class=\"company-name\">Cafeyn</h1><div class=\"company-size\">Entre 50 et 250 salariés</div><ul class=\"company-sectors\"><li data-parent=\"Tech\">Application mobile</li><li data-parent=\"Culture / Média / Divertissement\">Média</li></ul><ul class=\"technos\"><li>Redis</li><li>Snowflake</li><li>Vue.js</li><li>Kubernetes</li><li>PostgreSQL</li><li>Node.js</li><li>TypeScript</li><li>AWS</li><li>Python (Data Science)</li><li>Appium</li></ul><div class=\"descriptions\"><section><h2>Ce qu'ils recherchent</h2><div class=\"body\"><p>Passion, rigueur, autonomie.</p></div></section></div><ul class=\"socials\"><li><a rel=\"facebook\" href=\"https://www.facebook.com/CafeynFR\">fb</a></li><li><a rel=\"instagram\" href=\"https://instagram.com/cafeyn_france\">ig</a></li><li><a rel=\"linkedin\" href=\"https://www.linkedin.com/company/1671521\">in</a></li><li><a rel=\"twitter\" href=\"https://twitter.com/cafeyn_fr\">tw</a></li><li><a rel=\"youtube\" href=\"https://www.youtube.com/@cafeyn2024\">yt</a></li></ul><ul class=\"offices\"><li data-city=\"Paris\" data-district=\"Paris\" data-zip=\"75009\" data-country=\"FR\" data-lat=\"48.87291\" data-lng=\"2.33361\" data-hq=\"false\">Boulevard Haussmann, Paris</li></ul><div class=\"jobs-count\">8</div><a class=\"org-url\" href=\"https://www.welcometothejungle.com/fr/companies/lekiosk\">org</a><time class=\"updated-at\" datetime=\"2024-10-11T11:27:56.456Z\"></time></article></body></html>",
+  "job_html": "<html><body><article id=\"job\" data-slug=\"stage-responsable-commercial-business-developer_paris\" data-contract=\"internship\" data-remote=\"no\" data-language=\"fr\"><h1 class=\"job-title\">Stage Assistant.e Communication</h1><a class=\"job-url\" href=\"https://www.welcometothejungle.com/fr/companies/hindbag/jobs/stage-responsable-commercial-business-developer_paris\">job</a><time class=\"published-at\" datetime=\"2024-10-25\"></time><ul class=\"benefits\"><li>Tickets restaurant</li><li>Team building</li><li>Afterworks</li><li>Déjeuners d’équipe</li></ul><ul class=\"skills\"><li>Stratégies SEO/SEM</li><li>Rédaction académique</li><li>Optimisation pour les moteurs de recherche</li></ul><ul class=\"offices\"><li data-city=\"Paris\" data-country=\"FR\" data-lat=\"48.84312\" data-lng=\"2.34197\">7 Rue de l'Abbé de l'Épée, 75005 Paris, France</li></ul><time class=\"start-date\" datetime=\"2025-01-01T23:00:00Z\"></time><section class=\"organization\" data-name=\"Hindbag\" data-slug=\"hindbag\" data-nb-employees=\"18\"><ul class=\"socials\"><li><a rel=\"facebook\" href=\"https://www.facebook.com/hindbag\">fb</a></li><li><a rel=\"instagram\" href=\"https://instagram.com/hindbag\">ig</a></li><li><a rel=\"linkedin\" href=\"https://www.linkedin.com/company/hindbag\">in</a></li></ul></section><a class=\"apply-url\" href=\"https://wttj.apply/hindbag/job-123\">apply</a><a class=\"organization-url\" href=\"https://www.welcometothejungle.com/fr/companies/hindbag\">org</a></article></body></html>",
+  "expected_company": {
+    "type": "company",
+    "slug": "lekiosk",
+    "name": "Cafeyn",
+    "jobs_count": 8,
+    "size": "Entre 50 et 250 salariés",
+    "organization_url": "https://www.welcometothejungle.com/fr/companies/lekiosk"
+  },
+  "expected_job": {
+    "type": "job",
+    "slug": "stage-responsable-commercial-business-developer_paris",
+    "name": "Stage Assistant.e Communication",
+    "contract_type": "internship",
+    "remote": "no",
+    "language": "fr"
+  }
+}
